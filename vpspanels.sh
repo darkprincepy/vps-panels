@@ -4,7 +4,7 @@ while true; do
 clear
 
 echo "-----------------------------"
-echo "VPS Panels"
+echo "VPS Panels by Darkprince"
 echo "-----------------------------"
 echo "Server VPS Panel Manager"
 echo "-----------------------------"
